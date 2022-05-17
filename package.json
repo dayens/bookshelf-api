@@ -6,10 +6,6 @@
     "start": "nodemon ./src/server.js",
     "lint": "eslint ./src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/dayens/bookshelf-api.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
