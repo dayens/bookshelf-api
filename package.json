@@ -1,0 +1,23 @@
+{
+  "name": "bookshelf-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/dayens/bookshelf-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayens/bookshelf-api/issues"
+  },
+  "homepage": "https://github.com/dayens/bookshelf-api#readme",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
