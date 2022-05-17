@@ -19,7 +19,8 @@
   "homepage": "https://github.com/dayens/bookshelf-api#readme",
   "description": "",
   "dependencies": {
-    "@hapi/hapi": "^20.2.2"
+    "@hapi/hapi": "^20.2.2",
+    "nanoid": "^3.3.4"
   },
   "devDependencies": {
     "eslint": "^8.15.0",
